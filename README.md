@@ -89,9 +89,9 @@
 
 ## Github Stats  
 
-<div align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rydhralbar&" /></div>
+<div align="left" ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rydhralbar&" /></div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rydhralbar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=rydhralbar&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rydhralbar&hide_border=true&layout=compact" align="center" /></div>  
 

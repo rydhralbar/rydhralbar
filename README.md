@@ -96,4 +96,6 @@
 <img src="https://komarev.com/ghpvc/?username=rydhralbar&&style=flat-square" align="center" />
 </div>  
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alviandooo&show_icons=true&locale=en" alt="alviandooo" /></p>
+
 <br />

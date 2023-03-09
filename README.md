@@ -92,10 +92,10 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rydhralbar&hide_border=true&layout=compact" align="center" /></div>  
 
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rydhralbar&show_icons=true&locale=en" alt="rydhralbar" /></div>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rydhralbar&&style=flat-square" align="center" />
 </div>  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alviandooo&show_icons=true&locale=en" alt="alviandooo" /></p>
 
 <br />

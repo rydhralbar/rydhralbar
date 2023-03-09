@@ -91,12 +91,8 @@
 
 <div align="left" ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rydhralbar&" /></div>
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=rydhralbar&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=rydhralbar&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rydhralbar&hide_border=true&layout=compact" align="center" /></div>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rydhralbar&&style=flat-square" align="center" />
-</div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rydhralbar&hide_border=true&layout=compact" align="left" /></div>    
 
 <br />

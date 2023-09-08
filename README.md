@@ -6,7 +6,7 @@
 ### <div align="center">I'm Riyadh, a full-stack developer since 2022 🚀</div>  
   
 
-- 📝 I’m currently learning PHP, Laravel, & MongoDB  
+- 📝 I’m currently learning Golang & MongoDB  
   
 
 - ❓ Ask me about about React, Next JS, etc  

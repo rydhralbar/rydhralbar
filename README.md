@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Riyadh, a full-stack developer since 2022 🚀</div>  
+### <div align="center">I'm Riyadh, a full-stack developer since Oct 2022 🚀</div>  
   
 
-- 📝 I’m currently learning Golang & MongoDB  
+- 📝 I’m currently learning React Native & MongoDB  
   
 
 - ❓ Ask me about about React, Next JS, etc  
